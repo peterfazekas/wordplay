@@ -1,4 +1,4 @@
-package hu.wordplay.service;
+package hu.wordplay.data.service;
 
 /**
  * Created by Péter on 2017.04.14..
@@ -12,7 +12,9 @@ public class WordStatistic {
     }
 
     private long countVowel(String word) {
-        return word.chars().filter(this::isVowel).count();
+        return word.chars()
+                .filter(this::isVowel)
+                .count();
     }
 
     public boolean hasVowel(String word) {
