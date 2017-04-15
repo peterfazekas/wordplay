@@ -8,20 +8,20 @@ import java.io.PrintWriter;
 import java.util.List;
 
 /**
- * Created by Péter on 2017.04.14..
+ * @author Peter_Fazekas on 2017.04.14..
  */
 public class FileDataLogger implements DataLogger {
 
     private final String fileName;
 
-    public FileDataLogger(String fileName) {
+    public FileDataLogger(final String fileName) {
         this.fileName = Source.PATH + fileName;
     }
 
     @Override
     public void printAll(List<String> text) {
-        try (PrintWriter out = new PrintWriter(new FileWriter(fileName))){
-            text.stream().forEach(out::println);
+        try (PrintWriter out = new PrintWriter(new FileWriter(fileName))) {
+            text.forEach(out::println);
         } catch (IOException e) {
             e.printStackTrace();
         }
