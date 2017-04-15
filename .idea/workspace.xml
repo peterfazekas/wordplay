@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cda003c-21d4-4d90-a097-353896dcb8fa" name="Default" comment="Wordplay">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hu/wordplay/App.class" afterPath="$PROJECT_DIR$/target/classes/hu/wordplay/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hu/wordplay/data/read/ReadFiveCharacterLongWords.class" afterPath="$PROJECT_DIR$/target/classes/hu/wordplay/data/read/ReadFiveCharacterLongWords.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hu/wordplay/data/read/ReadLongestWord.class" afterPath="$PROJECT_DIR$/target/classes/hu/wordplay/data/read/ReadLongestWord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hu/wordplay/data/read/ReadWordStatistic.class" afterPath="$PROJECT_DIR$/target/classes/hu/wordplay/data/read/ReadWordStatistic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hu/wordplay/data/service/GetData.class" afterPath="$PROJECT_DIR$/target/classes/hu/wordplay/data/service/GetData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hu/wordplay/data/service/Source.class" afterPath="$PROJECT_DIR$/target/classes/hu/wordplay/data/service/Source.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hu/wordplay/data/service/WordStatistic.class" afterPath="$PROJECT_DIR$/target/classes/hu/wordplay/data/service/WordStatistic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hu/wordplay/model/LadderWord.class" afterPath="$PROJECT_DIR$/target/classes/hu/wordplay/model/LadderWord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/hu/wordplay/service/WordLadder.class" afterPath="$PROJECT_DIR$/target/classes/hu/wordplay/service/WordLadder.class" />
+    <list default="true" id="1cda003c-21d4-4d90-a097-353896dcb8fa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wordplay.iml" afterPath="$PROJECT_DIR$/Wordplay.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/App.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/log/DataLogger.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/log/DataLogger.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/log/FileDataLogger.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/log/FileDataLogger.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/parse/DataParser.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/parse/DataParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/read/DataRead.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/read/DataRead.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/read/ReadFiveCharacterLongWords.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/read/ReadFiveCharacterLongWords.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/read/ReadLongestWord.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/read/ReadLongestWord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/read/ReadWordStatistic.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/read/ReadWordStatistic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/service/GetData.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/service/GetData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/service/Source.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/service/Source.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/service/WordStatistic.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/data/service/WordStatistic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/model/LadderWord.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/model/LadderWord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/service/Console.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/service/Console.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hu/wordplay/service/WordLadder.java" afterPath="$PROJECT_DIR$/src/main/java/hu/wordplay/service/WordLadder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/letra.txt" afterPath="$PROJECT_DIR$/target/classes/letra.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -122,7 +95,7 @@
       <file leaf-file-name="Source.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hu/wordplay/data/service/Source.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
+            <state relative-caret-position="-183">
               <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
@@ -704,6 +677,14 @@
       <option name="presentableId" value="Default" />
       <updated>1492174706894</updated>
     </task>
+    <task id="LOCAL-00001" summary="refactor">
+      <created>1492248097933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1492248097933</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -745,7 +726,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Wordplay" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wordplay" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1088,7 +1070,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hu/wordplay/data/service/Source.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="-183">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
